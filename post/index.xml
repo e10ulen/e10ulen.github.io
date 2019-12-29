@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Slcb Portal Site</title>
+    <link>https://slcb.xyz/post/</link>
+    <description>Recent content in Posts on Slcb Portal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://slcb.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugoにポータルサイトを移設しました。</title>
+      <link>https://slcb.xyz/post/new-hugo/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://slcb.xyz/post/new-hugo/</guid>
+      <description>長らく放置していたポータルサイトを移設してみました。
+やなざわさんに触発されて
+とりあえず、小さなブログサイト化しておくことにしました。
+やはりメインでははてなブログで幽玄怪舎 依藤幸夢店として運用しているので、
+こっちは放置気味になります。</description>
+    </item>
+    
+  </channel>
+</rss>
