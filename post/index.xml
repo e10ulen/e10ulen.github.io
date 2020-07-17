@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Slcb Portal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://slcb.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>インコミーム</title>
+      <link>https://slcb.xyz/post/parakeet/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://slcb.xyz/post/parakeet/</guid>
+      <description>インコミームゥ
+玉置のためにインコミームを用意した。
+気が済めばいいがｗｗｗｗｗｗｗｗ</description>
+    </item>
     
     <item>
       <title>Hugoにポータルサイトを移設しました。</title>
